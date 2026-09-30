@@ -20,3 +20,4 @@ java -jar IntelligentPatientPrioritySystem.jar
 ```
 
 Emergency priority: 1 Critical, 2 Serious, 3 Normal.
+# Intelligent-Patient-Priority-Management-System-GUI
